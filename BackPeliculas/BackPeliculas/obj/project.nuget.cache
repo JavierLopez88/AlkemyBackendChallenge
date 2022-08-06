@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1wfQeTXI5GBBGj+O+4y5ht9vJlMOLDRSzCZm/+eCJZF7zTkX9bJhDj+Ntvxvoxg9RltYfJqshYIoxPUGtZv68w==",
+  "dgSpecHash": "yh6z0MJHsL9f6uqUDE2gqV4+giDk+0ziZ6cRuNOF2Rc2MsyWVeXzSNPM4foYwDMuDv6lBgc9zFBrJ+dtW3pdhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javie\\Desktop\\BackPeliculas\\BackPeliculas\\BackPeliculas.csproj",
+  "projectFilePath": "D:\\Programación\\Repositorios\\AlkemyBackendChallenge\\BackPeliculas\\BackPeliculas\\BackPeliculas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\javie\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",

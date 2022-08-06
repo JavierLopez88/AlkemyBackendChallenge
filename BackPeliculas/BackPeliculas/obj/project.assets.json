@@ -910,11 +910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\javie\\Desktop\\BackPeliculas\\BackPeliculas\\BackPeliculas.csproj",
+      "projectUniqueName": "D:\\Programación\\Repositorios\\AlkemyBackendChallenge\\BackPeliculas\\BackPeliculas\\BackPeliculas.csproj",
       "projectName": "BackPeliculas",
-      "projectPath": "C:\\Users\\javie\\Desktop\\BackPeliculas\\BackPeliculas\\BackPeliculas.csproj",
+      "projectPath": "D:\\Programación\\Repositorios\\AlkemyBackendChallenge\\BackPeliculas\\BackPeliculas\\BackPeliculas.csproj",
       "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\javie\\Desktop\\BackPeliculas\\BackPeliculas\\obj\\",
+      "outputPath": "D:\\Programación\\Repositorios\\AlkemyBackendChallenge\\BackPeliculas\\BackPeliculas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",

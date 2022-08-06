@@ -16,10 +16,8 @@ public class Context : DbContext  //(1)
     public virtual DbSet<Genero> Generos { get; set; } = null!;
     public virtual DbSet<Pelicula> Peliculas { get; set; } = null!;
     public virtual DbSet<Personaje> Personajes { get; set; } = null!;
+    public virtual DbSet<Usuario> Usuarios { get; set; } = null!;
 
-    // protected override void OnConfiguring(DbContextOptionsBuilder options)
-    //  {
-    //      options.UseNpgsql("ConexionDatabase");
-    //  }
+   
 
 }
